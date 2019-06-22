@@ -1,0 +1,13 @@
+{
+  "name": "knights-shortest-path-puzzle",
+  "author": "Quinn Turner",
+  "license": "ISC",
+  "main": "./knights.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node ./knights.js"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  }
+}
